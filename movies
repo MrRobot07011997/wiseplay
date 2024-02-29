@@ -6,6 +6,42 @@
 "stations": [
 
 {
+"name":"อีสานตุ๊ดซี่ ภาค 1 (2024)",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
+"url":"https://streamhls.com/view/c102931e-719e-5775-97fd-0e1e2b858cb4.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"นักรบมนตรา: ตำนานแปดดวงจันทร์ (2024)",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/montrawarrir.png",
+"url":"https://streamhls.com/view/5ce1e28c-18c8-5d43-8c08-18f6833dfb02.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"สัปเหร่อ (2023) The Undertaker",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/The-Undertaker-2023.jpg",
+"url":"https://streamhls.com/view/168a24c0-2f64-5ee7-80fe-503ccdc2c7ad.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"ไปรษณีย์ 4 โลก (2024) Postman",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/01/Postman.png",
+"url":"https://streamhls.com/view/c7b86825-cc6f-566a-a5d4-d138722309a2.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+{
 "name":"Gran-Turismo ",
 "info":"พากย์ไทย (2023)",
 "image":"https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gran-Turismo-2023.jpg",
