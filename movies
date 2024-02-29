@@ -4,7 +4,13 @@
 "image":"https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-27.png",
 "url": "https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
 "stations": [
-
+{
+"name":"CODE 8 II ",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/Code-8-pt2.png",
+"url":"https://streamhls.com/view/03beb140-09fe-5f2b-b1b0-a81f2011ef22.m3u8",
+"playInNatPlayer": "true"
+},
 
 
 {
