@@ -6,6 +6,14 @@
 "stations": [
 
 {
+"name":"Mea-Culpa ",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/Mea-Culpa.jpg",
+"url":"https://streamhls.com/view/774cfdfc-75ae-5216-aca4-f5eaacff5dd0.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
 "name":"Moscow-Mission ",
 "info":"พากย์ไทย (2024)",
 "image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/Moscow-Mission.jpg",
