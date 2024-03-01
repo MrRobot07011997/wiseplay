@@ -6,6 +6,21 @@
 "stations": [
 
 {
+"name":"Snoopy Presents: Welcome Home Franklin (2024)",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
+"url":"https://streamhls.com/view/e9dc6cd0-dc41-5fa0-8ae2-b5346872aa9f.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"The Parades (2024) เดอะ พาเหรด",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/The-Parades.png",
+"url":"https://streamhls.com/view/6c3758bc-5407-5250-8318-dd3b671256d3.m3u8",
+"playInNatPlayer": "true"
+},
+{
 "name":"อีสานตุ๊ดซี่ ภาค 1 (2024)",
 "info":"พากย์ไทย (2024)",
 "image":"https://www.v8movie-hd.com/wp-content/uploads/2024/01/E-Sarn-Tootsie-Part-1.png",
