@@ -6,6 +6,31 @@
 "stations": [
 
 {
+"name":"แมนสรวง (2024) ManSuang",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/ManSuang2024.png",
+"url":"https://streamhls.com/view/8d6d311d-3f87-5024-b738-844d75aaf130.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"Spaceman (2024) สเปซแมน",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/03/Spaceman.png",
+"url":"https://streamhls.com/view/0716acc4-16ee-5d8f-ba4d-9f8ba8ec49d5.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"Migration (2023) ครอบครัวเป็ดผจญภัย",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/01/Migration.png",
+"url":"https://streamhls.com/view/89c0afec-3631-5c22-856c-189b49d04710.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{
 "name":"Snoopy Presents: Welcome Home Franklin (2024)",
 "info":"พากย์ไทย (2024)",
 "image":"https://www.v8movie-hd.com/wp-content/uploads/2024/02/Snoopy-Presents.png",
