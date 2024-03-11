@@ -4,6 +4,23 @@
 "image":"https://i.postimg.cc/59v39cwM/movie-icon-15157.png",
 "url": "https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
 "stations": [
+{
+"name":"Damsel (2024) ดรุณีผู้พิชิต",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/03/Damsel-2024.jpg",
+"url":"https://streamhls.com/view/40d90e41-49c5-5362-bd50-603f61d9ab32.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+"name":"Ricky Stanicky (2024) ริคกี้ สแตนนิคกี้ เพื่อนซี้กำมะลอ",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8movie-hd.com/wp-content/uploads/2024/03/Rocky.jpg",
+"url":"https://streamhls.com/view/3f1a153a-83a0-5a07-8fa0-05c3c460d83b.m3u8",
+"playInNatPlayer": "true"
+},
+
+
 
 {
 "name":"Argylle (2024) อาร์ไกล์ ยอดสายลับ",
