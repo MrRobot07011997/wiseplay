@@ -4,6 +4,14 @@
 "image":"https://i.postimg.cc/59v39cwM/movie-icon-15157.png",
 "url": "https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
 "stations": [
+
+{
+"name":"Geji: The Spirit Hunter (2024) เกจิ คนฆ่าผี",
+"info":"พากย์ไทย (2024)",
+"image":"https://www.v8-hd.com/wp-content/uploads/2024/08/Geji-The-Spirit-Hunter.jpg",
+"url":"https://streamhls.com/view/a37719a7-643f-5f07-ab01-cc5fcdd0f672.m3u8",
+"playInNatPlayer": "true"
+},
 {
 "name":"Damsel (2024) ดรุณีผู้พิชิต",
 "info":"พากย์ไทย (2024)",
